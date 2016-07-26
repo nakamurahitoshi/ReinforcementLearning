@@ -8,3 +8,4 @@ z = np.sqrt(xs**2+ys**2) # 範囲中の各点において計算される。
 plt.imshow(z,cmap=plt.cm.gray)	# imshowで、グラフの可視化
 plt.colorbar()
 plt.title("image plot of $\sqrt{x^2 + y^2}$ for a grid of values") # $\~$で、Texみたいに書ける！
+#aaa
